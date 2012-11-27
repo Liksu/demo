@@ -1,0 +1,28 @@
+.w-second {
+	position: absolute;
+	width: 250px;
+	top: 16px;
+	left: 16px;
+	border: 1px solid navy;
+	background-color: #ffa57b;
+	padding: 4px;
+	font: 80% Verdana, Tahoma, Arial;
+	text-align: center;
+}
+
+.w-second .caption {
+	text-align: center;
+	background-color: #9e3336;
+	color: white;
+	font-weight: bold;
+	padding: 4px;
+	margin-bottom: 0.5em;
+	cursor: default;
+	background-image: url(../img/wink.png);
+	background-repeat: no-repeat;
+	background-position: 3px 2px;
+}
+
+input.filled {
+	background-color: #25ffb9;
+}
