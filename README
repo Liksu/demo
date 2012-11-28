@@ -1,1 +1,9 @@
-This file was created by JetBrains WebStorm 5.0 for binding GitHub repository
+Put demo near alien repo. Like this:
+/alien
+  /core
+    CM.js
+  ...
+/demo
+  index.html
+  /content
+  ...
